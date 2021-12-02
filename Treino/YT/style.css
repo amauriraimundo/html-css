@@ -1,0 +1,44 @@
+body {
+    background-color: #181818;
+    margin: 0;
+}
+
+.main-content{
+    width: 100vw;
+    height: 6vh;
+    
+    background-color: #202020;
+}
+
+.search {
+    position: relative;
+    width: 30vw;
+    height: 4vh;
+    
+    left: 45rem;
+    top: 0.6rem;
+}
+
+input{
+    width: 27vw;
+    height: 4vh;
+    background-color: #181818;
+    margin: 0;
+    border: none;
+    position: relative;
+    align-items: center;
+    align-content: center;
+    
+}
+
+button{
+    position: absolute;
+    width: 3vw;
+    height: 4vh;
+    left: 33rem;
+    bottom: 0rem;
+    background-color: #313131;
+    border: none;
+    cursor: pointer;
+
+}

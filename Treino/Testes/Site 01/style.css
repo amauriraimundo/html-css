@@ -1,0 +1,77 @@
+img{
+    max-width: 100%;
+    width: 418px;
+    height: 234.83;
+}
+body{
+    margin: 0;
+    background-color: #181818;
+    padding: 0;
+    
+
+}
+
+.cabeca {
+    width: 100vw;
+    height: 5vh;
+    background-color: #313131;    
+}
+
+h1{
+
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    color: #F22E52;
+    margin: auto;
+    text-align: center;
+
+}
+
+#menu-h  {
+    color: white;
+    position: relative;    
+    display:flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    width: 100vw;
+    height: 5vh;
+    text-decoration: none;
+    background-color: #313131;
+    padding: 0;
+    align-items: center;   
+    
+
+}
+#menu-a > a{
+    color: white;
+    text-decoration: none;
+    outline: none;
+    padding: 10px;
+}
+
+#catalogo-acao > ul{
+    display: flex;
+    flex-direction: initial;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding: 10;
+    margin-right: 10px;
+}
+
+#roda-do-tempo{
+    position: relative;
+    left:2rem;
+}
+
+#catalogo-acao > h2{
+    position: relative;
+    width: 0;
+    height: auto;
+    left: 35px;
+    color: white;
+    padding: 0;
+    margin: 0;
+    border: none;
+
+}

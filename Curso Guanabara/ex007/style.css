@@ -1,0 +1,7 @@
+body {
+    background-color: brown;
+}
+body p{
+    text-decoration: dashed;
+    text-shadow: 10px solid white;
+}
